@@ -54,10 +54,6 @@ gpr-analysis/
 ### Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/gpr-analysis.git
-cd gpr-analysis
-
 # Create virtual environment
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
@@ -247,20 +243,3 @@ Training metrics and detection examples are available in the `paper_images/` dir
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@techreport{GPR2025,
-  author = {Wani, Pritam and Rout, Sucheta and Pocker, Sahil},
-  title = {Automated Ground Penetrating Radar B-Scan Analysis Using Deep Learning and Large Language Models},
-  institution = {Dayananda Sagar University},
-  year = {2025},
-  type = {B.Tech Project Report}
-}
-```
-
-## Acknowledgment
-
-We thank Dayananda Sagar University, School of Engineering for providing the computational resources and guidance throughout this project.
