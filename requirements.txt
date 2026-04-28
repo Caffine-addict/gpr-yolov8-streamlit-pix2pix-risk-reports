@@ -1,0 +1,13 @@
+numpy
+pillow
+opencv-python
+
+torch
+torchvision
+ultralytics
+
+streamlit
+pandas
+altair
+
+reportlab
